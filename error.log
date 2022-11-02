@@ -1,0 +1,4 @@
+[2022-10-28T08:50:06.589] [ERROR] error - No se pudo conectar: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2022-10-28T08:50:21.301] [ERROR] error - No se pudo conectar: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2022-10-28T09:00:23.671] [ERROR] error - No se pudo conectar: bad auth : Authentication failed.
+[2022-10-28T09:00:43.733] [ERROR] error - No se pudo conectar: bad auth : Authentication failed.
